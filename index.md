@@ -5,11 +5,13 @@
 ### NLP
 [Topic Modeling on customer contacts](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Image Recognition
 [Car Damage Detector](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Time Series
@@ -18,6 +20,7 @@
 
 [Call Center Forecasting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Survival Analysis
@@ -26,16 +29,19 @@
 
 [Duration of long-term disability](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Classification
 [Optimization of life insurance requirements](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Regression
 [Pricing optimization](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Other Experimental Studies
