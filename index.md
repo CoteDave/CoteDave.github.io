@@ -43,6 +43,15 @@
 [Optimization of life insurance requirements](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[High cost drug claimants risk profile](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Long-term disability risk profile](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Deterioration risk of experience](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Regression
