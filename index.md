@@ -24,10 +24,10 @@
 ---
 
 ### Survival Analysis
-[Customer Churn](/sample_page)
+[Customer Churn (Group insurance)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Duration of long-term disability](/sample_page)
+[Duration of long-term disability files](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
