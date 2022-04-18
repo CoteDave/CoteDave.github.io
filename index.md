@@ -48,7 +48,7 @@
 
 ### Other Experimental Studies
 
-- [Implementing GANS for regression: Generator-Discriminator-Regressor](http://example.com/)
+- [Implementing GAN for regression: Generator-Discriminator-Regressor](http://example.com/)
 - [MDN for regression](http://example.com/)
 - [Advanced Deep Learnign Forecasting](http://example.com/)
 - [Beating XGBoost with Linear Regression and Feature Engineering](http://example.com/)
