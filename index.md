@@ -38,11 +38,6 @@
 ---
 [Optimization of life insurance requirements](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Regression
@@ -51,13 +46,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-### m
+### Other Experimental Studies
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Implementing GANS for regression: Generator-Discriminator-Regressor](http://example.com/)
+- [MDN for regression](http://example.com/)
+- [Advanced Deep Learnign Forecasting](http://example.com/)
+- [Beating XGBoost with Linear Regression and Feature Engineering](http://example.com/)
+- [Visualizing multivariate regression curve fit](http://example.com/)
 
 ---
 
