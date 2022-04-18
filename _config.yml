@@ -1,11 +1,10 @@
 title: Dave Cote, M.Sc. # your name (or website title) here
 logo: "/images/_MG_0229_rogne.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Introduction
-  <br>Currently Data Scientist in the insurance industry. 8+ years of experience in data science, business intelligence and delivering actionnable data-driven solutions that address business challenges. 
+  <br>8+ years of experience in data science, business intelligence and delivering actionnable data-driven solutions that address business challenges. 
   Numerous achievements in predictive modeling and Machine Learning with Python.<br>
-  Second description 
-  <br><br>
+
+  <br>Currently Data Scientist in the insurance industry. <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
