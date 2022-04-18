@@ -25,7 +25,7 @@
 ---
 
 ### Survival Analysis
-[Retention of a new group insurance customer](/sample_page)
+[Retention of a new customer](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
@@ -43,6 +43,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+### Regression
+---
+[Pricing optimization](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ### m
 
