@@ -3,19 +3,19 @@
 ---
 
 ### NLP
-
+---
 [Topic Modeling on customer contacts](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
 ### Image Recognition
-
+---
 [Car Damage Detector](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
 ### Time Series
-
+---
 [Loss Ratio Forecasting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
@@ -25,6 +25,7 @@
 ---
 
 ### Survival Analysis
+---
 [Retention of a new customer](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
