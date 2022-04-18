@@ -49,7 +49,7 @@
 [Long-term disability risk profile](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Deterioration risk of experience](/sample_page)
+[Deterioration of experience](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
