@@ -2,13 +2,25 @@
 
 ---
 
-### Category Name 1 
+### NLP
 
-[Project 1 Title](/sample_page)
+[Topic Modeling on customer contacts](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Time Series
+
+[Loss Ratio Forecasting](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Call Center Forecasting](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Classification
+---
+[Optimization of life insurance requirements](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +29,7 @@
 
 ---
 
-### Category Name 2
+### m
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
