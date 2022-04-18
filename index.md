@@ -45,7 +45,7 @@
 ---
 
 ### Classification
-[Optimization of life insurance requirements](/sample_page)
+[Optimization of life insurance requirements (Detection of undeclared smokers)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [High cost drug claimants risk profile](/sample_page)
