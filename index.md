@@ -32,6 +32,13 @@
 
 ---
 
+### Market Basket Analysis
+[Consumption of drugs in health insurance](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
 ### Classification
 [Optimization of life insurance requirements](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
