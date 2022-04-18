@@ -42,7 +42,7 @@
 
 - [Implementing GAN for regression: Generator-Discriminator-Regressor](http://example.com/)
 - [MDN for regression](http://example.com/)
-- [Advanced Deep Learnign Forecasting](http://example.com/)
+- [Advanced Deep Learning Forecasting with Tensors](http://example.com/)
 - [Beating XGBoost with Linear Regression and Feature Engineering](http://example.com/)
 - [Visualizing multivariate regression curve fit](http://example.com/)
 
