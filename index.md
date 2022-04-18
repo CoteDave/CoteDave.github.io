@@ -36,7 +36,7 @@
 
 ### Classification
 ---
-[Optimization of life insurance requirements](/pdf/sample_presentation.pdf)
+[Optimization of life insurance requirements](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -47,7 +47,7 @@
 
 ### Regression
 ---
-[Pricing optimization](/pdf/sample_presentation.pdf)
+[Pricing optimization](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
