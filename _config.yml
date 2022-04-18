@@ -1,11 +1,12 @@
-title: Dave Cote, M.Sc. # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Dave Cote, M.Sc. 
+logo: "/images/logo.png?raw=true" 
+description: > 
   <br>8+ years of experience in data science, business intelligence and delivering actionnable data-driven solutions that address business challenges. 
   Numerous achievements in predictive modeling and Machine Learning with Python.<br>
 
   <br>Currently Data Scientist in the insurance industry. <br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/dave-c%C3%B4t%C3%A9-1a578b40">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
