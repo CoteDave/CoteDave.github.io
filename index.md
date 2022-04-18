@@ -9,6 +9,13 @@
 
 ---
 
+### Image Recognition
+
+[Car Damage Detector](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ### Time Series
 
 [Loss Ratio Forecasting](/sample_page)
