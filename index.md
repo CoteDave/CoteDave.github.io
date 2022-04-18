@@ -24,7 +24,7 @@
 ---
 
 ### Survival Analysis
-[Retention of new customer](/sample_page)
+[Customer Churn](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Duration of long-term disability](/sample_page)
