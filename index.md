@@ -4,7 +4,7 @@
 
 ### NLP
 [Topic Modeling on customer contacts](/nlp_topic)
-<img src="images/nlp_topic.png?raw=true"/>
+<img src="images/nlp_topic2.png?raw=true"/>
 
 ---
 
