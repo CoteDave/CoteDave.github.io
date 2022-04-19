@@ -15,7 +15,7 @@
 ---
 
 ### Time Series
-[Loss Ratio Forecasting].(/sample_page)
+[Loss Ratio Forecasting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Call Center Forecasting](/ts_call_center)
