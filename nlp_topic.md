@@ -7,7 +7,7 @@
 * Batch ETL pipeline to refresh customer contacts daily.
 * Contacts transcripts associated with date and customer details.
 
-### 2. Model (Batch)
+### 2. Model
 * UMAP on TF-IDF transcripts and customer/transcripts features.
 * Clustering UMAP 2D projection using HDBSCAN.
 * Extracting rules from each cluster to determine a name by topic.
