@@ -3,7 +3,7 @@
 ---
 
 ### NLP
-[Topic Modeling on customer contacts](/sample_page)
+[Topic Modeling on customer contacts](/nlp_topic)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
