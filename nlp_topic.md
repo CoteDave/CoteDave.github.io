@@ -17,3 +17,5 @@ Prepare multiple aggregations of data / time series to feed the dashboard.
 
 ### 3. Web Interface (Dashboard)
 Deploy an interactive Streamlit application to epxlore the calcualted data with filters.
+
+https://cotedave.github.io/
