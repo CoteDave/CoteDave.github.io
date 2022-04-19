@@ -12,6 +12,7 @@ UMAP on TF-IDF transcripts and customer/transcripts features.
 Clustering UMAP 2D projection using HDBSCAN.
 Extracting rules from each cluster to determine a name by topic.
 Calculating coocurrence matrix to plot a graph of relation between words.
+Anomaly detection on time series to spot rapidly disrupting events.
 Prepare multiple aggregations of data / time series to feed the dashboard.
 
 ### 3. Web Interface (Dashboard)
