@@ -7,7 +7,7 @@
 * Google Car Images (Demo)
 * Damages polygons
 
-### 2. Model (Online)
+### 2. Model
 * Mask-RCNN (Instance segmentation of damage)
 * VGG-16 (Damage location and severity classification)
 
