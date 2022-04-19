@@ -1,6 +1,6 @@
 # Time Series
 ## Call Center Forecasting
-![](/images/ts_call.png)
+![](/images/ts_call_center.png)
 
 **Project description:** Forecast the number of call offering for the next 30 days and apply ErlangC algorithm on projections to calculate the optimal number of needed resources to optimize the workforce planning. 
 
