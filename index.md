@@ -9,7 +9,7 @@
 ---
 
 ### Image Recognition
-[Car Damage Detector (Instance Segmentation and Image Classification)](/sample_page)
+[Car Damage Detector (Instance Segmentation and Image Classification)](/image_car_damage)
 <img src="images/image_car_damage.png?raw=true"/>
 
 ---
