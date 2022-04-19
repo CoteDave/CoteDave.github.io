@@ -1,31 +1,18 @@
-## This can be your internal website page / project page
+# NLP
+## Topic Modeling on customer contacts
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** From the contacts transcripts, identify recurring and event-driven causes of customer contact to take action quickly that will improve the customer experience and reduce the cost associated with unwanted contact volume. In order to achieve this objective, provide a dashboard to allow easy exploration of causes, events and topics to facilitate understanding of reasons and trends regarding customer contacts.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Data
+ETL pipeline to refresh customer contacts daily.
+Contacts transcripts associated with dates and customer details.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 2. Model
+UMAP on TF-IDF transcripts and customer/transcripts features.
+Clustering UMAP 2D projection using HDBSCAN.
+Extracting rules from each cluster to determine a name by topic.
+Calculating coocurrence matrix to plot a graph of relation between words.
+Prepare multiple aggregations of data / time series to feed the dashboard.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 3. Web Interface (Dashboard)
+Deploy an interactive Streamlit application to epxlore the calcualted data with filters.
