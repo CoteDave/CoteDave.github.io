@@ -8,7 +8,7 @@
 * Batch ETL pipeline to refresh offered call volume
 
 ### 2. Model
-* Ensemble of FbProphet, ThymeBoost and a custom model to learn temporal structure and calculate the forecast.
-* ErlangC algorithm 
+* Forcasting: Ensemble of FbProphet, ThymeBoost and a custom model to learn temporal structure and calculate the forecast.
+* Workforce Planinng: ErlangC algorithm 
 
 [Back](https://cotedave.github.io/)
