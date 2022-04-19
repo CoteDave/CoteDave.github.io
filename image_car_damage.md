@@ -1,5 +1,6 @@
 # Image Recognition
 ## Car Damage Detector (Instance Segmentation and Image Classification)
+![](/images/image_car_damage.png)
 
 **Project description:** Automaticly detect damages on a car picture and produce a damage report. The goal is to experiment image segmentation with Mask-RCNN to see the potential and the complexity applied to a car damage detection problem.
 
