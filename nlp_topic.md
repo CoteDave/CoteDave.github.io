@@ -1,6 +1,6 @@
 # NLP
 ## Topic Modeling on customer contacts
-![](/images/nlp_topic.png)
+![](/images/nlp_topic2.png)
 
 **Project description:** From the contacts transcripts, identify recurring and event-driven causes of customer contact to take action quickly that will improve the customer experience and reduce the cost associated with unwanted contact volume. In order to achieve this objective, provide a dashboard to allow easy exploration of causes, events and topics to facilitate understanding of reasons and trends regarding customer contacts.
 
