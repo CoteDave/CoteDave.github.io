@@ -11,6 +11,6 @@
 * Forcasting: Ensemble of FbProphet, ThymeBoost and a custom model to learn temporal structure and calculate the forecast.
 * Calculate the seasonal daily distribution of calls.
 * Dispatch forecasted call volume according to daily proportions, by slice of 30 minutes.
-* Workforce Planinng: Apply ErlangC algorithm on each slice of 30 minutes
+* Workforce Planinng: Apply ErlangC algorithm on the call volume estimated for each slice of 30 minutes, for each day.
 
 [Back](https://cotedave.github.io/)
