@@ -16,7 +16,7 @@
 
 ### Time Series
 [Call Center Forecasting](/ts_call_center)
-<img src="images/ts_call.png?raw=true"/>
+<img src="images/ts_call_center.png?raw=true"/>
 
 [Loss Ratio Forecasting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
