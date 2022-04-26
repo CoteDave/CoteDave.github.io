@@ -9,7 +9,7 @@
 
 ### 2. Model
 * Forcasting: Ensemble of CoxRegression, DeepLearning and Gradient Boosting models.
-* Predict the survival functions for each claim.
+* Predict the survival function for each claim.
 * Calculate the conditional time to event (Predicted Duration)
 * Calculate the survival probabilities at critical times for each claim.
 
