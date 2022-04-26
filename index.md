@@ -27,7 +27,7 @@
 [Customer Churn (Group insurance)](/customer_churn)
 <img src="images/customer_churn.png?raw=true"/>
 
-[Duration of long-term disability files](/sample_page)
+[Long-term disability claims duration](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
