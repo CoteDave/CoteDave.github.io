@@ -1,5 +1,5 @@
 # Anomaly Detection
-## Fraud Detection
+## Health claims Fraud Detection
 ![](/images/anomaly_detect.png)
 
 **Project description:** Highlight anomalous claims and extract data rules to understand them and help improve the overall claim analysis process.
