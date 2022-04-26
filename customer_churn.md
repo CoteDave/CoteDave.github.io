@@ -1,6 +1,6 @@
 # Survival Analysis
 ## Customer Churn
-![](/images/customer_churn2.png)
+![](/images/customer_churn.png)
 
 **Project description:** For new submissions and renewals, estimate the conditional time to event (churn) to help actuarial decisions.
 
