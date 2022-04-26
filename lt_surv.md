@@ -1,5 +1,5 @@
 # Survival Analysis
-## Long-term disability claimns duration
+## Long-term disability claims duration
 ![](/images/surv_funcs.png)
 
 **Project description:** Estimate the duration of long-term disability claims to support actuarial decisions and to optimize claims management.
