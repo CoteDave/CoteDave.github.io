@@ -9,7 +9,7 @@
 
 ### 2. Model
 * Forcasting: Ensemble of CoxRegression, DeepLearning and Gradient Boosting models.
-* Predict the survival functions for each customer.
+* Predict the survival function for each customer.
 * Calculate the conditional time to event (Predicted Duration)
 * Calculate the survival probabilities at critical times for each customer and compare them with the probability distribution of their respective segment to compute individual risk scores.
 
