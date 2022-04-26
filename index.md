@@ -18,7 +18,7 @@
 [Call Center Forecasting](/ts_call_center)
 <img src="images/ts_call_center.png?raw=true"/>
 
-[Financial & Actuarial Forecasting](/sample_page)
+[Financial & Actuarial Forecasting](/financial_ts)
 <img src="images/financial_ts.png?raw=true"/>
 
 ---
