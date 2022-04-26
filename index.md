@@ -28,7 +28,7 @@
 <img src="images/customer_churn2.png?raw=true"/>
 
 [Long-term disability claims duration](/lt_surv)
-<img src="images/surv_funcs.png?raw=true"/>
+<img src="images/surv_funcs2.png?raw=true"/>
 
 ---
 
