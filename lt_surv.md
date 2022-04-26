@@ -1,8 +1,8 @@
 # Survival Analysis
-## Long-term Disability claimns
+## Long-term disability claimns duration
 ![](/images/surv_funcs.png)
 
-**Project description:** Estimate the duration of long-term disability claims for actuarial decisions and optimize claim management.
+**Project description:** Estimate the duration of long-term disability claims to support actuarial decisions and to optimize claims management.
 
 ### 1. Data
 * Batch ETL pipeline to refresh claims features, events and durations.
