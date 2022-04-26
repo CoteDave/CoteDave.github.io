@@ -19,7 +19,7 @@
 <img src="images/ts_call_center.png?raw=true"/>
 
 [Financial & Actuarial Forecasting](/sample_page)
-<img src="images/financial_ts.jpg?raw=true"/>
+<img src="images/financial_ts.png?raw=true"/>
 
 ---
 
