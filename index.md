@@ -18,8 +18,8 @@
 [Call Center Forecasting](/ts_call_center)
 <img src="images/ts_call_center.png?raw=true"/>
 
-[Loss Ratio Forecasting](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Financial & Actuarial Forecasting](/sample_page)
+<img src="images/financial_ts.jpg?raw=true"/>
 
 ---
 
