@@ -39,8 +39,8 @@
 ---
 
 ### Anomaly Detection
-[Health claims Fraud Detection](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Health claims Fraud Detection](/anomaly_fraud)
+<img src="images/anomaly_detect.png?raw=true"/>
 
 ---
 
