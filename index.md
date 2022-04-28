@@ -2,13 +2,13 @@
 
 ---
 
-### NLP
+### Natural Language Processing (NLP)
 [Topic Modeling on customer contacts](/nlp_topic)
 <img src="images/nlp_topic2.png?raw=true"/>
 
 ---
 
-### Image Recognition
+### Computer Vision
 [Car Damage Detector (Instance Segmentation and Image Classification)](/image_car_damage)
 <img src="images/image_car_damage.png?raw=true"/>
 
