@@ -1,4 +1,4 @@
-# Image Recognition
+# Computer Vision
 ## Car Damage Detector (Instance Segmentation and Image Classification)
 ![](/images/image_car_damage.png)
 
