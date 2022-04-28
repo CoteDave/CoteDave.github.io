@@ -1,4 +1,4 @@
-# NLP
+# Natural Language Processing (NLP)
 ## Topic Modeling on customer contacts
 ![](/images/nlp_topic2.png)
 
@@ -17,7 +17,7 @@
 * Prepare multiple aggregations of data / time series to feed the dashboard.
 
 ### 3. Web Interface (Dashboard)
-* Deploy an interactive Streamlit application to explore topics, time series, COOC graph and other calcualted data using custom filters.
+* Deploy an interactive Streamlit application to explore topics, time series, COOC graph and other calculated data using custom filters.
 
 [Back](https://cotedave.github.io/)
 
