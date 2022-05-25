@@ -5,31 +5,36 @@
 ### Natural Language Processing (NLP)
 [Topic Modeling on customer contacts](/nlp_topic)
 
-**Project description:** From the contacts transcripts, identify recurring and event-driven causes of customer contact to take action quickly that will improve the customer experience and reduce the cost associated with unwanted contact volume. In order to achieve this objective, provide a dashboard to allow easy exploration of causes, events and topics to facilitate understanding of reasons and trends regarding customer contacts.<img src="images/nlp_topic2.png?raw=true"/>
+**Project description:** From contact transcripts, identify recurring and event-driven causes of customer contact to quickly take action that will improve customer experience and reduce costs associated with unwanted contact volume. In order to achieve this goal, provide a dashboard to allow easy exploration of causes, events, and topics to make it easier to understand reasons and trends regarding customer contact.<img src="images/nlp_topic2.png?raw=true"/>
 
 ---
 
 ### Computer Vision
 [Car Damage Detector (Instance Segmentation and Image Classification)](/image_car_damage)
-<img src="images/image_car_damage.png?raw=true"/>
+
+**Project description:** Automaticly detect damages on a car image and produce a damage summary report. The goal is to experiment image segmentation with Mask-RCNN to see the potential and the complexity applied to a car damage detection problem.<img src="images/image_car_damage.png?raw=true"/>
 
 ---
 
 ### Time Series
 [Call Center Forecasting](/ts_call_center)
-<img src="images/ts_call_center.png?raw=true"/>
+
+**Project description:** Forecast the number of call offering for the next 30 days and apply ErlangC algorithm on projections to calculate the optimal number of needed resources, each 30 minutes of the day, to optimize the workforce planning.<img src="images/ts_call_center.png?raw=true"/>
 
 [Financial & Actuarial Forecasting](/financial_ts)
-<img src="images/financial_ts.png?raw=true"/>
+
+**Project description:** Forecast monthly and quarterly financial and actuarial indicators to support strategic planning using time-series decomposition technics.<img src="images/financial_ts.png?raw=true"/>
 
 ---
 
 ### Survival Analysis
 [Customer Churn (Group insurance)](/customer_churn)
-<img src="images/customer_churn2.png?raw=true"/>
+
+**Project description:** For new submissions and renewals, estimate the conditional time to event (churn) to help actuarial decisions.<img src="images/customer_churn2.png?raw=true"/>
 
 [Long-term disability claims duration](/lt_surv)
-<img src="images/surv_funcs3.png?raw=true"/>
+
+**Project description:** Estimate the duration of long-term disability claims to support actuarial decisions and to optimize claims management.<img src="images/surv_funcs3.png?raw=true"/>
 
 ---
 
@@ -41,7 +46,8 @@
 
 ### Anomaly Detection
 [Health claims Fraud Detection](/anomaly_fraud)
-<img src="images/anomaly_detect.png?raw=true"/>
+
+**Project description:** Highlight anomalous claims and extract data rules to understand them and help improve the overall claim analysis process.<img src="images/anomaly_detect.png?raw=true"/>
 
 ---
 
