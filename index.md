@@ -68,17 +68,17 @@
 ### Other Experimental Studies
 
 - [Implementing GAN for regression: Generator-Discriminator-Regressor](http://example.com/)
-- [Mixture Density Network (MDN) for multivariate Regression]([http://example.com/](https://medium.com/@dave.cote.msc/made-easy-mixture-density-network-for-multivariate-regression-49e576721b3))
+- [Mixture Density Network (MDN) for multivariate Regression](https://medium.com/@dave.cote.msc/made-easy-mixture-density-network-for-multivariate-regression-49e576721b3)
 - <img src="images/article_mdn.png?raw=true"/>
-- [Hands-On Advanced Deep Learning Time Series Forecasting with Tensors]([http://example.com/](https://medium.com/@dave.cote.msc/hands-on-advanced-deep-learning-time-series-forecasting-with-tensors-7facae522f18))
+- [Hands-On Advanced Deep Learning Time Series Forecasting with Tensors](https://medium.com/@dave.cote.msc/hands-on-advanced-deep-learning-time-series-forecasting-with-tensors-7facae522f18)
 - <img src="images/article_dts.png?raw=true"/>
-- [RdR score metric for evaluating time series forecasting models]([[http://example.com/](https://medium.com/@dave.cote.msc/hands-on-advanced-deep-learning-time-series-forecasting-with-tensors-7facae522f18)](https://medium.com/@dave.cote.msc/rdr-score-metric-for-evaluating-time-series-forecasting-models-1c23f92f80e7))
+- [RdR score metric for evaluating time series forecasting models](https://medium.com/@dave.cote.msc/hands-on-advanced-deep-learning-time-series-forecasting-with-tensors-7facae522f18)](https://medium.com/@dave.cote.msc/rdr-score-metric-for-evaluating-time-series-forecasting-models-1c23f92f80e7)
 - <img src="images/article_rdr.png?raw=true"/>
-- [How I beat XGBoost with Linear Regression!]([http://example.com/](https://medium.com/@dave.cote.msc/demonstrating-the-power-of-feature-engineering-part-ii-how-i-beat-xgboost-with-linear-regression-e63aeb6a15f8))
+- [How I beat XGBoost with Linear Regression!](https://medium.com/@dave.cote.msc/demonstrating-the-power-of-feature-engineering-part-ii-how-i-beat-xgboost-with-linear-regression-e63aeb6a15f8)
 - <img src="images/article_xgb.png?raw=true"/>
-- [Visualization trick for multivariate regression problems]([http://example.com/](https://medium.com/@dave.cote.msc/visualization-trick-for-multivariate-regression-problems-5b3aa25ff2f8))
+- [Visualization trick for multivariate regression problems](https://medium.com/@dave.cote.msc/visualization-trick-for-multivariate-regression-problems-5b3aa25ff2f8)
 - <img src="images/article_viz.png?raw=true"/>
-- [Demonstrating the power of feature engineering]([[http://example.com/](https://medium.com/@dave.cote.msc/visualization-trick-for-multivariate-regression-problems-5b3aa25ff2f8)](https://medium.com/@dave.cote.msc/demonstrating-the-power-of-feature-engineering-part-i-7d5c0222d249))
+- [Demonstrating the power of feature engineering](https://medium.com/@dave.cote.msc/visualization-trick-for-multivariate-regression-problems-5b3aa25ff2f8)](https://medium.com/@dave.cote.msc/demonstrating-the-power-of-feature-engineering-part-i-7d5c0222d249)
 - <img src="images/article_fe.png?raw=true"/>
  
 
