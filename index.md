@@ -65,7 +65,7 @@
 
 ---
 
-### Other Experimental Studies
+### Other Experimental Studies / Medium publications
 - [Implementing GAN for regression: Generator-Discriminator-Regressor](http://example.com/)
 
 - [Mixture Density Network (MDN) for multivariate Regression (On Medium with Python codes)](https://medium.com/@dave.cote.msc/made-easy-mixture-density-network-for-multivariate-regression-49e576721b3/)<img src="images/article_mdn.png?raw=true"/>
