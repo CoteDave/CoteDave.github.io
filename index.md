@@ -66,7 +66,7 @@
 ---
 
 ### Other Experimental Studies
-- [#### Implementing GAN for regression: Generator-Discriminator-Regressor](http://example.com/)
+-#### [Implementing GAN for regression: Generator-Discriminator-Regressor](http://example.com/)
 - [Mixture Density Network (MDN) for multivariate Regression (On Medium with Python codes)](https://medium.com/@dave.cote.msc/made-easy-mixture-density-network-for-multivariate-regression-49e576721b3/)<img src="images/article_mdn.png?raw=true"/>
 - [Hands-On Advanced Deep Learning Time Series Forecasting with Tensors (On Medium with Python codes)](https://medium.com/@dave.cote.msc/hands-on-advanced-deep-learning-time-series-forecasting-with-tensors-7facae522f18/)<img src="images/article_dts.png?raw=true"/>
 - [RdR score metric for evaluating time series forecasting models (On Medium with Python codes)](https://medium.com/@dave.cote.msc/rdr-score-metric-for-evaluating-time-series-forecasting-models-1c23f92f80e7/)<img src="images/article_rdr.png?raw=true"/>
